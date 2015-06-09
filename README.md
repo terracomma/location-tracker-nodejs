@@ -43,7 +43,7 @@ Create a Cloudant service within Bluemix if one has not already been created:
 
 ## Deploying
 
-[![Deploy to Bluemix](https://bluemix.net/deploy/button.png)](https://github.com/terracomma/location-tracker-nodejs.git)
+[![Deploy to Bluemix](https://bluemix.net/deploy/button.png)](https://bluemix.net/deploy?repository=https://github.com/terracomma/location-tracker-nodejs.git)
 
 To deploy to Bluemix, simply:
 
